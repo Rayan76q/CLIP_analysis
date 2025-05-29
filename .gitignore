@@ -1,1 +1,4 @@
 .venv
+medical
+__pycache__
+*.pyc
