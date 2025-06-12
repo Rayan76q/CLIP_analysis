@@ -1,4 +1,6 @@
 .venv
-medical
+medical/Test
+medical/Training
+medical/Validation
 __pycache__
 *.pyc
